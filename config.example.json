@@ -1,0 +1,8 @@
+{
+    "truenas_api_username":"root",
+    "truenas_api_key":"full-truenas-api-key-here",
+    "truenas_api_url":"wss://truenas.example.com/api/current",
+    "cert_name_prefix":"truenas_cert_",
+    "private_key_file":"certificate/privkey10.pem",
+    "certificate_file":"certificate/fullchain10.pem"
+}
